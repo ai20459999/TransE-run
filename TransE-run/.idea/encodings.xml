@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Test/entities2id.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test/entity2id.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test/relation2id.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test/train.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test/train1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test1/entity2id.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test1/relation2id.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test1/test1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test1/test2.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test1/train1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test2/entities2id.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test2/relation2id.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test2/test 1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test2/test1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test2/train.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Test2/train1.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wn18rr/entities.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wn18rr/relations.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wn18rr/train.txt" charset="GBK" />
+  </component>
+</project>
